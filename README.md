@@ -8,4 +8,4 @@
 
 ## **board_game** в данной игре была проделана работа с событиями мыши а именно mouseover and mouseleave <https://jsfiddle.net/AlexKiborg/pze2j3Ln/9/>.
 
-**board_game** коды игры содержит множество фишек полезных для меня :) <https://jsfiddle.net/AlexKiborg/ovu43q96/4/>.
+## **board_game** коды игры содержит множество фишек полезных для меня :) <https://jsfiddle.net/AlexKiborg/ovu43q96/4/>.
